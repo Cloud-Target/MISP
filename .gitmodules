@@ -13,10 +13,10 @@
 	url = https://github.com/MISP/misp-warninglists.git
 [submodule "app/files/misp-galaxy"]
 	path = app/files/misp-galaxy
-	url = https://github.com/MISP/misp-galaxy
+	url = git@github.com:whoisroot/misp-galaxy
 [submodule "app/files/misp-objects"]
 	path = app/files/misp-objects
-	url = https://github.com/MISP/misp-objects
+	url = git@github.com:whoisroot/misp-objects
 [submodule "misp-vagrant"]
 	path = misp-vagrant
 	url = https://github.com/MISP/misp-vagrant.git
