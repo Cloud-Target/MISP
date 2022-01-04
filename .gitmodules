@@ -14,9 +14,11 @@
 [submodule "app/files/misp-galaxy"]
 	path = app/files/misp-galaxy
 	url = git@github.com:whoisroot/misp-galaxy
+	branch = CloudTarget
 [submodule "app/files/misp-objects"]
 	path = app/files/misp-objects
 	url = git@github.com:whoisroot/misp-objects
+	branch = CloudTarget
 [submodule "misp-vagrant"]
 	path = misp-vagrant
 	url = https://github.com/MISP/misp-vagrant.git

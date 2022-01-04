@@ -33,6 +33,7 @@ tools/mkdocs
 /app/tmp/cache/persistent/myapp*
 /app/tmp/cache/views/myapp*
 /app/tmp/cache/misp_feed*
+/app/tmp/cache/feeds/misp_feed*
 /app/files/*
 /app/tmp/cache/feeds/*.cache
 app/Lib/EventWarning/Custom/*

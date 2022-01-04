@@ -25,7 +25,7 @@
         <?php
             if (true == Configure::read('MISP.welcome_text_bottom')):
         ?>
-                <div style="text-align:right;font-size:18px;">
+                <div style="text-align:center;font-size:18px;">
                 <?php
                     echo h(Configure::read('MISP.welcome_text_bottom'));
                 ?>
